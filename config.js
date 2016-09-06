@@ -10,7 +10,7 @@ modes: {
 sites:{
   "domaene01" : {id: "domaene01",short:"d01",name:"TEST", version:"0.9.24", version_base:"2016.1.5", on_map: false },
   // "domaene02" : {id: "domaene02",short:"d02",name:"Kreis Coesfeld", version:"1.0.4", version_base:"2016.1.2", on_map: false },
-   "domaene03" : {id: "domaene03",short:"d03",name:"Raum Donauwörth", version:"0.9.24", version_base:"2016.1.2", on_map: true },
+   "domaene03" : {id: "domaene03",short:"d03",name:"Raum Donauwörth", version:"0.9.24", version_base:"2016.1.5", on_map: true },
   // "domaene04" : {id: "domaene04",short:"d04",name:"Kreis Steinfurt Ost", version:"1.0.4", version_base:"2016.1.2", on_map: false },
   "domaene05" : {id: "domaene05",short:"d05",name:"Raum Nördlingen", version:"0.9.24", version_base:"2016.1.5", on_map: true },
   //"domaene06" : {id: "domaene06",short:"d06",name:"Westmünsterland", version:"1.1.4", version_base:"2016.1.5", on_map: false },
