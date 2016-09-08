@@ -71,8 +71,8 @@ mapTools.buildLegend = function(){
 mapTools.initMap = function($scope, $http){
     angular.extend($scope, {
         muenster: {
-            lat: 51.99,
-            lng: 7.4,
+            lat: 48.80,
+            lng: 10.71,
             zoom: 9,
             //autoDiscover: true
         },
