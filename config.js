@@ -1,4 +1,3 @@
-var config = {
 
 version: "2016.1.5",
 
@@ -8,27 +7,16 @@ modes: {
 },
 
 sites:{
-  //"domaene01" : {id: "domaene01",short:"d01",name:"TEST", version:"0.9.24", version_base:"2016.1.5", on_map: false },
-  // "domaene02" : {id: "domaene02",short:"d02",name:"Kreis Coesfeld", version:"1.0.4", version_base:"2016.1.2", on_map: false },
-   "domaene03" : {id: "domaene03",short:"d03",name:"Raum Donauwörth", version:"0.9.24", version_base:"2016.1.5", on_map: true }
-  // "domaene04" : {id: "domaene04",short:"d04",name:"Kreis Steinfurt Ost", version:"1.0.4", version_base:"2016.1.2", on_map: false },
-  //"domaene05" : {id: "domaene05",short:"d05",name:"Raum Nördlingen", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  //"domaene06" : {id: "domaene06",short:"d06",name:"Westmünsterland", version:"1.1.4", version_base:"2016.1.5", on_map: false },
-  //"domaene07" : {id: "domaene07",short:"d07",name:"Raum Wemding", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  //"domaene08" : {id: "domaene08",short:"d08",name:"Gescher", version:"1.1.9", version_base:"2016.1.5", on_map: true },
-  //"domaene09" : {id: "domaene09",short:"d09",name:"Raum Bäumenheim", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  // "domaene10" : {id: "domaene10",short:"d10",name:"Testdomäne", version:"1.1.9", version_base:"2016.1.5", on_map: false },
-  //"domaene11" : {id: "domaene11",short:"d11",name:"Raum Monheim", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  //"domaene12" : {id: "domaene12",short:"d12",name:"Dülmen (ohne Rorup)", version:"1.1.6", version_base:"2016.1.5", on_map: true },
-  //"domaene13" : {id: "domaene13",short:"d13",name:"Raum Harburg", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  //"domaene14" : {id: "domaene14",short:"d14",name:"Raesfeld", version:"1.1.9", version_base:"2016.1.5", on_map: true },
-  //"domaene15" : {id: "domaene15",short:"d15",name:"Raum Öttingen", version:"0.9.24", version_base:"2016.1.5", on_map: true},
-  //"domaene16" : {id: "domaene16",short:"d16",name:"Münster Promenade", version:"1.1.6", version_base:"2016.1.5", on_map: true },
-  //"domaene17" : {id: "domaene17",short:"d17",name:"Raum Rain", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  //"domaene18" : {id: "domaene18",short:"d18",name:"Greven", version:"1.1.6", version_base:"2016.1.5", on_map: true },
-  //"domaene19" : {id: "domaene19",short:"d19",name:"Umland", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  //"domaene20" : {id: "domaene20",short:"d20",name:"Ochtrup", version:"1.1.6", version_base:"2016.1.5", on_map: true },
-  //"domaene63" : {id: "domaene63",short:"d63",name:"Vreden", version:"1.1.9", version_base:"2016.1.5", on_map: true}
+  "domaene03" : {id: "domaene03",short:"d03",name:"Raum Donauwörth", version:"0.9.24", version_base:"2016.1.5", on_map: true },
+  "domaene05" : {id: "domaene05",short:"d05",name:"Raum Nördlingen", version:"0.9.24", version_base:"2016.1.5", on_map: true },
+  "domaene07" : {id: "domaene07",short:"d07",name:"Raum Wemding", version:"0.9.24", version_base:"2016.1.5", on_map: true },
+  "domaene09" : {id: "domaene09",short:"d09",name:"Raum Bäumenheim", version:"0.9.24", version_base:"2016.1.5", on_map: true },
+  "domaene11" : {id: "domaene11",short:"d11",name:"Raum Monheim", version:"0.9.24", version_base:"2016.1.5", on_map: true },
+  "domaene13" : {id: "domaene13",short:"d13",name:"Raum Harburg", version:"0.9.24", version_base:"2016.1.5", on_map: true },
+  "domaene15" : {id: "domaene15",short:"d15",name:"Raum Öttingen", version:"0.9.24", version_base:"2016.1.5", on_map: true},
+  "domaene17" : {id: "domaene17",short:"d17",name:"Raum Rain", version:"0.9.24", version_base:"2016.1.5", on_map: true },
+  "domaene19" : {id: "domaene19",short:"d19",name:"Umland", version:"0.9.24", version_base:"2016.1.5", on_map: true },
+  "domaene01" : {id: "domaene01",short:"d01",name:"zum TEST", version:"0.9.24", version_base:"2016.1.5", on_map: false }
 },
 
 //router list for gluon v2015.1
