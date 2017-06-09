@@ -1,5 +1,5 @@
 
-version: "2016.1.5",
+version: "2016.2.4",
 
 modes: {
   "factory": "Erstinstallation (Neu gekaufter Router)",
