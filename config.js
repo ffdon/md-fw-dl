@@ -1,6 +1,6 @@
 var config = {
 
-version: "2016.1.5",
+version: "2016.2.4",
 
 modes: {
   "factory": "Erstinstallation (Neu gekaufter Router)",
@@ -8,16 +8,16 @@ modes: {
 },
 
 sites:{
-  "domaene03" : {id: "domaene03",short:"d03",name:"Raum Donauwörth", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  "domaene05" : {id: "domaene05",short:"d05",name:"Raum Nördlingen", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  "domaene07" : {id: "domaene07",short:"d07",name:"Raum Wemding", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  "domaene09" : {id: "domaene09",short:"d09",name:"Raum Bäumenheim", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  "domaene11" : {id: "domaene11",short:"d11",name:"Raum Monheim", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  "domaene13" : {id: "domaene13",short:"d13",name:"Raum Harburg", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  "domaene15" : {id: "domaene15",short:"d15",name:"Raum Öttingen", version:"0.9.24", version_base:"2016.1.5", on_map: true},
-  "domaene17" : {id: "domaene17",short:"d17",name:"Raum Rain", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  "domaene19" : {id: "domaene19",short:"d19",name:"Umland", version:"0.9.24", version_base:"2016.1.5", on_map: true },
-  "domaene01" : {id: "domaene01",short:"d01",name:"zum TEST", version:"0.9.24", version_base:"2016.1.5", on_map: false }
+  "domaene03" : {id: "domaene03",short:"d03",name:"Raum Donauwörth", version:"0.9.35", version_base:"2016.2.4", on_map: true },
+  "domaene05" : {id: "domaene05",short:"d05",name:"Raum Nördlingen", version:"0.9.35", version_base:"2016.2.4", on_map: true },
+  "domaene07" : {id: "domaene07",short:"d07",name:"Raum Wemding", version:"0.9.35", version_base:"2016.2.4", on_map: true },
+  "domaene09" : {id: "domaene09",short:"d09",name:"Raum Bäumenheim", version:"0.9.35", version_base:"2016.2.4", on_map: true },
+  "domaene11" : {id: "domaene11",short:"d11",name:"Raum Monheim", version:"0.9.35", version_base:"2016.2.4", on_map: true },
+  "domaene13" : {id: "domaene13",short:"d13",name:"Raum Harburg", version:"0.9.35", version_base:"2016.2.4", on_map: true },
+  "domaene15" : {id: "domaene15",short:"d15",name:"Raum Öttingen", version:"0.9.35", version_base:"2016.2.4", on_map: true},
+  "domaene17" : {id: "domaene17",short:"d17",name:"Raum Rain", version:"0.9.35", version_base:"2016.2.4", on_map: true },
+  "domaene19" : {id: "domaene19",short:"d19",name:"Umland", version:"0.9.35", version_base:"2016.2.4", on_map: true },
+  "domaene01" : {id: "domaene01",short:"d01",name:"zum TEST", version:"0.9.35", version_base:"2016.2.4", on_map: false }
 },
 
 //router list for gluon v2015.1
@@ -135,6 +135,7 @@ routers: {
  "tp-link-tl-wr1043n-nd-v1": { id: "tp-link-tl-wr1043n-nd-v1", name: "TL-WR1043N/ND Ver:1", manufacturer: "TP-Link" },
  "tp-link-tl-wr1043n-nd-v2": { id: "tp-link-tl-wr1043n-nd-v2", name: "TL-WR1043N/ND Ver:2", manufacturer: "TP-Link" },
  "tp-link-tl-wr1043n-nd-v3": { id: "tp-link-tl-wr1043n-nd-v3", name: "TL-WR1043N-ND Ver:3", manufacturer: "TP-Link" },
+ "tp-link-tl-wr1043n-nd-v4": { id: "tp-link-tl-wr1043n-nd-v4", name: "TL-WR1043N-ND Ver:4", manufacturer: "TP-Link" },
  "tp-link-tl-wr2543n-nd-v1": { id: "tp-link-tl-wr2543n-nd-v1", name: "TL-WR2543N/ND Ver:1", manufacturer: "TP-Link" },
  "ubiquiti-bullet-m":        { id: "ubiquiti-bullet-m", name: "Bullet M", manufacturer: "Ubiquiti" },
  "ubiquiti-loco-m-xw":      { id: "ubiquiti-loco-m-xw", name: "Loco M XW", manufacturer: "Ubiquiti" },
